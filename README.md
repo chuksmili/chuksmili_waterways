@@ -82,7 +82,7 @@ The landing page is fully optimized for all screen sizes:
 
 ## 🌐 Live Demo
 
-> Currently not available (project runs locally)
+https://chuksmili-waterways.vercel.app/
 
 ---
 
